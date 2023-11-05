@@ -1,0 +1,134 @@
+Camino Network
+
+Halo Bro and sis semua, pernah denger atau tidak asing dengan "Camino Network"
+mungkin untuk para airdroper mungkin tidak lah asing mungkin anda sekarang sedang mengerjakan tugasnya untuk mendapatkan token $CAM.
+Tapi sebelum ke bagaimana cara untuk mendapatkan token $CAM lebih baik kita mengenal dulu siapa Camino Network? karena mengetahui fundamentalnya itu sangatlah penting.
+Dan di sini saya akan membahas siapa mereka? bagaimana perjalanan projek mereka? dan sudah sejauh mana projek mereka.
+
+*Apa itu Jaringan Camino?
+
+Camino Network adalah platform Web3 berbasis blockchain yang didirikan oleh tiga veteran industri perjalanan Ralf Usbeck , Thomas Stirnimann , dan Pablo Castillo , 
+dan dikembangkan oleh Chain4Travel (fasilitator blockchain konsorsium Camino) dengan tujuan meningkatkan industri perjalanan.
+Proyek ini beroperasi sebagai Organisasi Otonomi Terdesentralisasi (DAO), yang berarti masyarakat sendiri yang mengambil keputusan dengan memberikan suara
+dan mengajukan proposal. Camino Network diatur oleh ekosistem perjalanan, termasuk pengembang teknologi, penyedia layanan industri, dan wisatawan.
+
+lalu apa yang di tawarkan oleh camino network?
+
+*Jaringan Camino menawarkan: 
+
+-Biaya transaksi rendah;
+-Mengurangi risiko secara signifikan; 
+-Finalitas Blockchain yang turun menjadi hanya beberapa detik.
+
+*Lalu bagaimana mana dengan perjalanan Projek mereka ?
+Saya di sini akan memberikan gambaran tentang perjalanan mereka.
+
+Camino Network Jaringan utamanya mulai beroperasi pada Mei 2023 dan berupaya menawarkan kepada klien jaringan serbaguna untuk memperluas model bisnis saat ini
+dan menciptakan produk wisata inovatif bagi wisatawan dan mitra bisnis.
+
+Meskipun proyek ini masih dalam tahap persiapan, namun telah mencapai beberapa pencapaian. Terutama, mereka berhasil mendapatkan komitmen lebih dari 80 validator yang akan menjalankan blockchain
+setelah mainnet diluncurkan akhir bulan ini. Selain itu, perusahaan ini mendapat dukungan dari lebih dari 140 perusahaan perjalanan berbeda yang akan menggunakan teknologinya untuk membangun solusi dApp
+untuk model Business-to-Business (B2B) dan Business-to-Consumer (B2C).
+
+Dan ini adalah biasanya yang sering di pertanyakan setiap orang, berapa dana yang sudah terkumpul di projek ini?
+
+Camino Network telah berhasil mengumpulkan lebih dari 9,3 juta CHF ($10,4 juta). Dari jumlah total tersebut, 5 juta CHF ($5,59 juta) berasal dari pra-penjualan swasta, yang diikuti oleh 80+ perusahaan dari industri perjalanan, 
+selain lebih dari 220 individu.
+Beberapa peserta antara lain nama-nama seperti Juniper, TUI, Eurowings, DER, Hotelplan, Miles & More, Lufthansa, Schauinsland, dan lain-lain.
+
+Sementara itu, 4,3 juta CHF lainnya ($4,8 juta) dikumpulkan dalam Investasi awal proyek, yang menampilkan investor seperti perusahaan di sektor perjalanan yang memiliki investasi jangka panjang.
+
+Dan Camino Network pun memiliki 3 kategori di dalam projeknya
+Yaitu Pengguna atau user, Mitra atau partner dan konsortium member.
+
+Pengguna memiliki izin untuk membaca semua data yang tercatat di blockchain.
+Mereka juga dapat berinteraksi dengan kontrak pintar jaringan, yang dapat mereka lakukan setiap kali membeli produk atau membayar layanan yang akan ditawarkan oleh ekosistem jaringan.
+
+Mitra harus melalui verifikasi Kenali Pelanggan Anda (KYC) atau Kenali Bisnis Anda (KYB),
+namun mereka dapat menerapkan kontrak pintar di jaringan. Mereka juga dapat berinteraksi dengan mereka dan membaca semua data di rantai, seperti Pengguna.
+Namun, pengembang dApp juga dapat memeriksa apakah dompet yang berinteraksi dengan aplikasi telah diverifikasi. Hasil verifikasi dapat digunakan oleh kontrak pintar untuk membangun logika bisnis.
+
+Mitra juga dapat menjadi Anggota Konsorsium .
+Untuk melakukan hal tersebut, Mitra harus merupakan perusahaan yang bergerak di industri perjalanan. 
+Mereka juga harus mempertaruhkan CAM – mata uang kripto asli Camino Network – dan mendapatkan izin masuk ke konsorsium dari anggota lain,
+yang akan memberikan suara apakah perusahaan baru tersebut harus diterima atau tidak. 
+
+Suara terbanyak menentukan apa yang akan terjadi selanjutnya.
+Namun, dengan asumsi bahwa perusahaan tersebut berhasil terpilih menjadi anggota konsorsium, perusahaan tersebut akan menjadi anggota dan berpartisipasi dalam pemungutan suara lebih lanjut untuk mengatur jaringan,
+menentukan perubahan dalam biaya dasar protokol, membuat keputusan yang akan mempengaruhi peta jalan proyek, dan seterusnya.
+
+nah setelah kita mengenal siapa mereka "Camino Network" ?
+mari kita lihat tokenomics dari Camino Network ini
+
+$CAM adalah Token asli mendanai perkembangan proyek selanjutnya.
+Mayoritas token Camino disimpan sebagai cadangan, yang dapat digunakan untuk memberi insentif pada pengembangan produk dan dApps terkait perjalanan.
+
+dan berikut ini adalah rincian detailnya
+
+7% (70 juta CAM) tersisa untuk para pendiri, dan jumlah ini akan dikurung selama tiga tahun pertama
+7,50% lainnya (75 juta CAM) didedikasikan untuk tim proyek, yang juga akan dikurung selama 3 tahun
+2,50% dari total pasokan, atau 25 juta CAM, disalurkan ke penasihat proyek — juga hanya tiga tahun setelah proyek beroperasi; 
+Artinya tim, pendiri, dan penasihat akan mendapatkan total 17% atau 17 juta token.
+
+selanjutnya token $CAM ini pun di gunakan
+
+4,30% (43 juta CAM) untuk investasi awal, yang juga dilengkapi dengan lockup 3 tahun.
+Pra-penjualan telah menggunakan 5% (50 juta CAM), dengan periode lockup yang sama.
+Sedangkan untuk ICO terakhir, proyek memutuskan untuk mendedikasikan 7,5% (75 juta CAM)
+untuk itu Artinya total investasi awal sebesar 16,80% atau 168 juta CAM.
+
+Terakhir, ada dana yang didedikasikan untuk pemasaran, pengembangan, dan tujuan serupa lainnya. Misalnya:
+
+20% (200 juta CAM) masuk ke kumpulan insentif dApp;
+5% (50 juta CAM) digunakan untuk pemasaran;
+7,50% (75 juta CAM) disimpan untuk penjualan kedua;
+10% (100 juta CAM) masuk ke kumpulan hadiah Jaringan Camino;
+Sisanya sebesar 23,70% (237 juta CAM) akan disimpan selama 3+ tahun sebagai bagian dari cadangan proyek;
+Hal ini menjadikan total insentif dan cadangan menjadi 66,20%, atau 662 juta CAM.
+
+Secara total, semua ini menghasilkan pasokan token CAM sebesar 1 miliar yang akan digunakan oleh proyek untuk memberi
+penghargaan kepada tim dan pendiri, sebagai investasi awal, dan untuk insentif dan cadangan.
+
+*lalu Bagaimana dengan perjalanan projeknya atau roadmapnya?
+
+Proyek ini telah mencapai banyak pencapaian dan pencapaian pada peta jalan awalnya, namun juga memiliki rencana besar untuk masa depan
+
+Dan yang sering di pertanyakan selanjutnya adalah Apakah Jaringan Camino aman?
+
+Camino Network relatif aman berkat desentralisasi dan sifat teknologi blockchain yang terdistribusi. Semua transaksi diverifikasi
+dan dicatat oleh node jaringan, yang berarti tidak mungkin terjadi peretasan blockchain atau mengubah datanya. 
+
+Dan Camino Network pun sedang mengadakan
+mengadakan program bug bounty , di mana total bounty akan ditetapkan menjadi $200.000, setengahnya akan diberikan dalam bentuk token CAM.
+
+Dan Camino Network pun memiliki 3 Rantai Yaitu
+
+P-Chain , atau Platform Chain, yang digunakan untuk mengelola dan mengunci saham, validator, dan koordinasi jaringan; 
+C-Chain , atau Rantai Kontrak, yang sepenuhnya kompatibel dengan Ethereum melalui EVM, dan di sinilah kontrak pintar dibangun;
+X-Chain , atau Exchange Chain, yang digunakan untuk pembuatan dan pengelolaan aset dengan cepat.
+
+yang artinya Proyek ini menjelaskan bahwa filosofi di balik pendekatan tiga rantai khusus sebenarnya berasal dari Avalanche . Camino menggunakan basis teknis Avalanche yang canggih,
+sehingga prinsip yang sama berlaku untuk jaringannya. Masing-masing dari ketiga rantai tersebut dirancang, dioptimalkan,
+dan dianggap sebagai sistem yang sepenuhnya independen, yang dimaksudkan hanya untuk penggunaan spesifiknya sendiri.
+
+Sudah cukup mengenal Camino Network?
+selanjutnya mungkin ini yang di tunggu oleh bro and sis semua
+yaitu bagaimana cara mendapatkan Airdrop atau token $CAM
+
+Jawabannya ? 
+Bro and sis semua bisa mengikuti Zealy spirint yang diadakan oleh
+pihak camino network, di mana Yang masuk top 1000
+akan mendapatkan token $CAM yang akan di kirimkan
+oleh team camino setelah event Zealy itu berakhir.
+
+Mungkin hanya itu yang bisa saya sampaikan.
+untuk kurang lebih nya saya meminta maaf 
+karena tujuan di buatnya ini agar kita selalu mengetahui
+terlebih dahulu untuk setiap projek yang akan kita dukung.
+
+tetap #Dyor ya
+
+Pengungkapan Risiko dan Penafian :
+Informasi yang diberikan dalam tinjauan ini tidak boleh dianggap sebagai nasihat investasi.
+Aset Cryptocurrency mengalami volatilitas pasar yang tinggi; oleh karena itu, membeli, menjual, dan memperdagangkannya
+membuat Anda menghadapi risiko finansial yang signifikan
